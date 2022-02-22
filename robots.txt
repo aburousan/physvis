@@ -1,4 +1,4 @@
-Sitemap: https://tlienart.github.io/FranklinTemplates.jl/sitemap.xml
+Sitemap: https://aburousan.github.io/physvis/sitemap.xml
 
 User-agent: *
 Disallow:
